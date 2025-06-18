@@ -1,4 +1,4 @@
-# InternetWebCrawler
+# Internet Web Crawler
 
 A Python web crawler that starts from the Wikipedia main page and follows links while respecting robots.txt rules.  
 Great for exploring websites and gathering links automatically!
